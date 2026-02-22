@@ -1,0 +1,28 @@
+// alert("Hello world");
+// console.log('Hi)))');
+// let b=10;
+// b=0;
+// let c=1+2;
+// console.log(c);
+// const greeting = 'You are ';
+// const age = prompt('how old you?');
+// console.log(age);
+// console.log(greeting + age);
+// console.log(greeting+age+ ' years old');
+/*let x=10;
+const y=x++;
+console.log('y=', y);
+console.log(x);
+let x1=10;
+const y1=++x1;
+console.log('y1=', y1);
+console.log(x1)*/
+// const a1 = prompt ('введіть перше число');
+// const a2 = prompt ('Введіть друге число');
+// const sum = a1 + a2;
+// console.log(sum);
+// const num1 = +prompt ('Введіть перше число');
+// const num2 = +prompt ('Введіть друге число');
+// const num3 = +prompt ('Введіть третє число');
+// const sum = num1*num2*num3;
+// console.log(sum);
